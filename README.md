@@ -40,9 +40,9 @@
 <h3 align="center">🏗️ CMS Website Builder</h3>
 <p align="center"><sub>A CMS that stores <b>descriptions, not HTML</b></sub></p>
 
-- 📦 Publish appends an **immutable release** — compiled to a hosted site, static zip, or container
-- ⏪ Rollback is a **single-column update**, not a rebuild
-- 🧱 Architecture-first: releases are data, rendering is a pure function of them
+- 📦 Publish appends an **immutable release**
+- ⏪ Rollback is a **single-column update**
+- 🧱 Compiles to a site, static zip, or container
 
 **`Next.js` `TypeScript` `Prisma` `PostgreSQL`**
 
@@ -56,9 +56,9 @@
 <h3 align="center">🏠 ZEstate</h3>
 <p align="center"><sub>Real-estate platform — <b>live in production</b></sub></p>
 
-- 🌐 Full product: listings, search, and a modern buyer/seller experience
-- 🚢 Deployed and serving real users at **zestate.co**
-- 🔒 Closed-source client build — the live site is the proof
+- 🌐 Listings, search and buyer/seller flows
+- 🚢 Serving real users at **zestate.co**
+- 🔒 Closed-source client build
 
 **`Next.js` `TypeScript` `Tailwind CSS`**
 
@@ -74,9 +74,9 @@
 <h3 align="center">👕 3D Football Kit Customizer</h3>
 <p align="center"><sub>Real-time <b>3D product configurator</b> in the browser</sub></p>
 
-- 🎮 Live 3D shirt model you can recolor, texture, and spin in real time
+- 🎮 Recolor, texture and spin a live 3D model
 - ✨ GSAP-driven camera and state transitions
-- 🖼️ Upload artwork straight onto the 3D mesh
+- 🖼️ Upload artwork onto the 3D mesh
 
 **`Three.js` `GSAP` `React`**
 
@@ -90,8 +90,8 @@
 <h3 align="center">🎨 PaletteAI</h3>
 <p align="center"><sub>Describe your business → get a <b>full color palette</b></sub></p>
 
-- 🤖 Mistral-7B-Instruct turns a business idea into a styled, ready-to-use palette
-- ⚡ Prompt → structured output → rendered swatches, end to end
+- 🤖 Mistral-7B turns an idea into a palette
+- ⚡ Prompt → structured output → swatches
 - 🌐 Deployed and usable right now
 
 **`React` `Mistral-7B` `JavaScript`**
@@ -109,9 +109,9 @@
 <h3 align="center">🤖 PR-Insight-Bot</h3>
 <p align="center"><sub>A GitHub Action that <b>reviews your PRs for you</b></sub></p>
 
-- 📝 Summarizes pull requests automatically on open
-- 🧪 Flags missing tests before a human ever looks
-- ✍️ Nudges commit-message quality up across the team
+- 📝 Summarizes pull requests on open
+- 🧪 Flags missing tests automatically
+- ✍️ Improves commit-message quality
 
 **`Python` `GitHub Actions` `CI/CD`**
 
@@ -125,11 +125,11 @@
 <h3 align="center">🧹 AI Code Linter</h3>
 <p align="center"><sub>Lint + <b>AI-suggested fixes</b>, in one tool</sub></p>
 
-- 🔍 Identifies issues in submitted code and explains them
-- 💡 Hugging Face Transformers generate intelligent fix suggestions
-- 🖥️ FastAPI backend, React + Tailwind frontend
+- 🔍 Finds code issues and explains them
+- 💡 Transformers suggest intelligent fixes
+- 🖥️ FastAPI backend, React + Tailwind UI
 
-**`FastAPI` `Transformers` `React` `Tailwind CSS`**
+**`FastAPI` `Transformers` `React`**
 
 <p align="center">
 <a href="https://github.com/AmarWaqar-TSKLI/AI_Code_Linter_Repo"><img src="https://img.shields.io/badge/View_Code-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
