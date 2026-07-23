@@ -37,6 +37,8 @@
 <tr>
 <td width="50%" valign="top">
 
+<img src="https://raw.githubusercontent.com/AmarWaqar-TSKLI/AmarWaqar-TSKLI/main/assets/spacer.png" width="400" height="1" alt=""/>
+
 <h3 align="center">🏗️ CMS Website Builder</h3>
 <p align="center"><sub>A CMS that stores <b>descriptions, not HTML</b></sub></p>
 
@@ -52,6 +54,8 @@
 
 </td>
 <td width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/AmarWaqar-TSKLI/AmarWaqar-TSKLI/main/assets/spacer.png" width="400" height="1" alt=""/>
 
 <h3 align="center">🏠 ZEstate</h3>
 <p align="center"><sub>Real-estate platform — <b>live in production</b></sub></p>
@@ -71,6 +75,8 @@
 <tr>
 <td width="50%" valign="top">
 
+<img src="https://raw.githubusercontent.com/AmarWaqar-TSKLI/AmarWaqar-TSKLI/main/assets/spacer.png" width="400" height="1" alt=""/>
+
 <h3 align="center">👕 3D Football Kit Customizer</h3>
 <p align="center"><sub>Real-time <b>3D product configurator</b> in the browser</sub></p>
 
@@ -87,11 +93,13 @@
 </td>
 <td width="50%" valign="top">
 
+<img src="https://raw.githubusercontent.com/AmarWaqar-TSKLI/AmarWaqar-TSKLI/main/assets/spacer.png" width="400" height="1" alt=""/>
+
 <h3 align="center">🎨 PaletteAI</h3>
 <p align="center"><sub>Business idea → <b>full color palette</b></sub></p>
 
 - 🤖 Mistral-7B turns an idea into a palette
-- ⚡ Prompt → structured output → swatches
+- ⚡ Prompt → structured swatches
 - 🌐 Deployed and usable right now
 
 **`React` `Mistral-7B` `JavaScript`**
@@ -105,6 +113,8 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/AmarWaqar-TSKLI/AmarWaqar-TSKLI/main/assets/spacer.png" width="400" height="1" alt=""/>
 
 <h3 align="center">🤖 PR-Insight-Bot</h3>
 <p align="center"><sub>A GitHub Action that <b>reviews your PRs</b></sub></p>
@@ -121,6 +131,8 @@
 
 </td>
 <td width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/AmarWaqar-TSKLI/AmarWaqar-TSKLI/main/assets/spacer.png" width="400" height="1" alt=""/>
 
 <h3 align="center">🧹 AI Code Linter</h3>
 <p align="center"><sub>Lint + <b>AI-suggested fixes</b>, in one tool</sub></p>
