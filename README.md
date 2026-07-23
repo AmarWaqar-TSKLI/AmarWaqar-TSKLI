@@ -25,7 +25,7 @@
 ## 🧭 About
 
 - 🛠️ Full-stack engineer with **35+ repos** of shipped work — SaaS platforms, client products, AI tools, games, and systems code
-- 🎓 Computer Science @ **FAST-NUCES**, Lahore
+- 🎓 Software Engineering @ **FAST-NUCES**, Lahore
 - 🚀 Currently building **[ZEstate](https://zestate.co)** — a real-estate platform, **live in production**
 - 🤝 **Open to full-time roles & freelance** → fastest way to reach me: [amarwaqar15@gmail.com](mailto:amarwaqar15@gmail.com)
 
@@ -40,9 +40,9 @@
 <h3 align="center">🏗️ CMS Website Builder</h3>
 <p align="center"><sub>A CMS that stores <b>descriptions, not HTML</b></sub></p>
 
-- 📦 Publish appends an **immutable release**
-- ⏪ Rollback is a **single-column update**
-- 🧱 Compiles to a site, static zip, or container
+- 📦 Publishes **immutable releases**
+- ⏪ Rollback is **one column update**
+- 🧱 Ships as site, zip or container
 
 **`Next.js` `Prisma` `PostgreSQL`**
 
@@ -56,8 +56,8 @@
 <h3 align="center">🏠 ZEstate</h3>
 <p align="center"><sub>Real-estate platform — <b>live in production</b></sub></p>
 
-- 🌐 Listings, search and buyer/seller flows
-- 🚢 Serving real users at **zestate.co**
+- 🌐 Listings, search, buyer/seller
+- 🚢 Live at **zestate.co**
 - 🔒 Closed-source client build
 
 **`Next.js` `TypeScript` `Tailwind`**
@@ -74,9 +74,9 @@
 <h3 align="center">👕 3D Kit Customizer</h3>
 <p align="center"><sub>Real-time <b>3D configurator</b> in the browser</sub></p>
 
-- 🎮 Recolor, texture and spin a live 3D model
-- ✨ GSAP-driven camera and state transitions
-- 🖼️ Upload artwork onto the 3D mesh
+- 🎮 Recolor and spin a 3D model
+- ✨ GSAP camera transitions
+- 🖼️ Upload art onto the mesh
 
 **`Three.js` `GSAP` `React`**
 
@@ -90,9 +90,9 @@
 <h3 align="center">🎨 PaletteAI</h3>
 <p align="center"><sub>Business idea → <b>full color palette</b></sub></p>
 
-- 🤖 Mistral-7B turns an idea into a palette
-- ⚡ Prompt → structured output → swatches
-- 🌐 Deployed and usable right now
+- 🤖 Mistral-7B builds the palette
+- ⚡ Prompt → styled swatches
+- 🌐 Deployed and usable now
 
 **`React` `Mistral-7B` `JavaScript`**
 
@@ -109,9 +109,9 @@
 <h3 align="center">🤖 PR-Insight-Bot</h3>
 <p align="center"><sub>A GitHub Action that <b>reviews your PRs</b></sub></p>
 
-- 📝 Summarizes pull requests on open
-- 🧪 Flags missing tests automatically
-- ✍️ Improves commit-message quality
+- 📝 Summarizes PRs on open
+- 🧪 Flags missing tests
+- ✍️ Improves commit messages
 
 **`Python` `GitHub Actions` `CI/CD`**
 
@@ -125,9 +125,9 @@
 <h3 align="center">🧹 AI Code Linter</h3>
 <p align="center"><sub>Lint + <b>AI-suggested fixes</b>, in one tool</sub></p>
 
-- 🔍 Finds code issues and explains them
-- 💡 Transformers suggest intelligent fixes
-- 🖥️ FastAPI backend, React + Tailwind UI
+- 🔍 Finds and explains issues
+- 💡 Transformers suggest fixes
+- 🖥️ FastAPI + React frontend
 
 **`FastAPI` `Transformers` `React`**
 
