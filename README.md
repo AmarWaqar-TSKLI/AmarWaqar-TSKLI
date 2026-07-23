@@ -8,7 +8,7 @@
 
 <a href="https://amarwaqar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-amarwaqar.vercel.app-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/amar-waqar-6a1665225/"><img src="https://img.shields.io/badge/LinkedIn-Amar%20Waqar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/amarwaqar"><img src="https://img.shields.io/badge/LinkedIn-Amar%20Waqar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 &nbsp;
 <a href="mailto:amarwaqar15@gmail.com"><img src="https://img.shields.io/badge/Email-amarwaqar15%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
@@ -239,8 +239,8 @@
 <td width="50%">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AmarWaqar-TSKLI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&include_all_commits=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmarWaqar-TSKLI&show_icons=true&hide_border=true&title_color=6366F1&icon_color=8B5CF6&include_all_commits=true" alt="GitHub stats"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=AmarWaqar-TSKLI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&include_all_commits=true">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AmarWaqar-TSKLI&show_icons=true&hide_border=true&title_color=6366F1&icon_color=8B5CF6&include_all_commits=true" alt="GitHub stats"/>
 </picture>
 
 </td>
@@ -256,8 +256,8 @@
 </table>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarWaqar-TSKLI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=10">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarWaqar-TSKLI&layout=compact&hide_border=true&title_color=6366F1&langs_count=10" alt="top languages"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AmarWaqar-TSKLI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8&hide=c">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AmarWaqar-TSKLI&layout=compact&hide_border=true&title_color=6366F1&langs_count=8&hide=c" alt="top languages"/>
 </picture>
 
 <br/><br/>
