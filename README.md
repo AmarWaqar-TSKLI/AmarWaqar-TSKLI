@@ -33,18 +33,18 @@
 
 ## ⚡ Featured Builds
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 <h3 align="center">🏗️ CMS Website Builder</h3>
 <p align="center"><sub>A CMS that stores <b>descriptions, not HTML</b></sub></p>
 
-- 📦 Publishes **immutable releases**
-- ⏪ Rollback is **one column update**
-- 🧱 Ships as site, zip or container
+- 📦 Publish appends an **immutable release**
+- ⏪ Rollback is a **single-column update**
+- 🧱 Ships as a site, static zip or container
 
-**`Next.js` `Prisma` `PostgreSQL`**
+**`Next.js` `TypeScript` `Prisma` `PostgreSQL`**
 
 <p align="center">
 <a href="https://github.com/AmarWaqar-TSKLI/cms-website-builder"><img src="https://img.shields.io/badge/View_Code-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
@@ -56,11 +56,11 @@
 <h3 align="center">🏠 ZEstate</h3>
 <p align="center"><sub>Real-estate platform — <b>live in production</b></sub></p>
 
-- 🌐 Listings, search, buyer/seller
-- 🚢 Live at **zestate.co**
+- 🌐 Listings, search and buyer/seller flows
+- 🚢 Serving real users at **zestate.co**
 - 🔒 Closed-source client build
 
-**`Next.js` `TypeScript` `Tailwind`**
+**`Next.js` `TypeScript` `Tailwind CSS`**
 
 <p align="center">
 <a href="https://zestate.co"><img src="https://img.shields.io/badge/Live_Site-zestate.co-D946EF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live"/></a>
@@ -71,12 +71,12 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">👕 3D Kit Customizer</h3>
-<p align="center"><sub>Real-time <b>3D configurator</b> in the browser</sub></p>
+<h3 align="center">👕 3D Football Kit Customizer</h3>
+<p align="center"><sub>Real-time <b>3D product configurator</b> in the browser</sub></p>
 
-- 🎮 Recolor and spin a 3D model
-- ✨ GSAP camera transitions
-- 🖼️ Upload art onto the mesh
+- 🎮 Recolor, texture and spin a 3D model
+- ✨ GSAP-driven camera transitions
+- 🖼️ Upload artwork onto the 3D mesh
 
 **`Three.js` `GSAP` `React`**
 
@@ -90,9 +90,9 @@
 <h3 align="center">🎨 PaletteAI</h3>
 <p align="center"><sub>Business idea → <b>full color palette</b></sub></p>
 
-- 🤖 Mistral-7B builds the palette
-- ⚡ Prompt → styled swatches
-- 🌐 Deployed and usable now
+- 🤖 Mistral-7B turns an idea into a palette
+- ⚡ Prompt → structured output → swatches
+- 🌐 Deployed and usable right now
 
 **`React` `Mistral-7B` `JavaScript`**
 
@@ -109,9 +109,9 @@
 <h3 align="center">🤖 PR-Insight-Bot</h3>
 <p align="center"><sub>A GitHub Action that <b>reviews your PRs</b></sub></p>
 
-- 📝 Summarizes PRs on open
-- 🧪 Flags missing tests
-- ✍️ Improves commit messages
+- 📝 Summarizes pull requests on open
+- 🧪 Flags missing tests automatically
+- ✍️ Improves commit-message quality
 
 **`Python` `GitHub Actions` `CI/CD`**
 
@@ -125,11 +125,11 @@
 <h3 align="center">🧹 AI Code Linter</h3>
 <p align="center"><sub>Lint + <b>AI-suggested fixes</b>, in one tool</sub></p>
 
-- 🔍 Finds and explains issues
-- 💡 Transformers suggest fixes
-- 🖥️ FastAPI + React frontend
+- 🔍 Finds code issues and explains them
+- 💡 Transformers suggest intelligent fixes
+- 🖥️ FastAPI backend, React + Tailwind UI
 
-**`FastAPI` `Transformers` `React`**
+**`FastAPI` `Transformers` `React` `Tailwind`**
 
 <p align="center">
 <a href="https://github.com/AmarWaqar-TSKLI/AI_Code_Linter_Repo"><img src="https://img.shields.io/badge/View_Code-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
