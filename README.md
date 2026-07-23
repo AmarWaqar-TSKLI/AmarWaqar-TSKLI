@@ -39,8 +39,8 @@
 
 <img src="https://raw.githubusercontent.com/AmarWaqar-TSKLI/AmarWaqar-TSKLI/main/assets/spacer.png" width="400" height="1" alt=""/>
 
-<h3 align="center">🏗️ CMS Website Builder</h3>
-<p align="center"><sub>A CMS that stores <b>descriptions, not HTML</b></sub></p>
+<h3>🏗️ CMS Website Builder</h3>
+<p><sub>A CMS that stores <b>descriptions, not HTML</b></sub></p>
 
 - 📦 Publish appends an **immutable release**
 - ⏪ Rollback is a **single-column update**
@@ -48,7 +48,7 @@
 
 **`Next.js` `TypeScript` `Prisma` `PostgreSQL`**
 
-<p align="center">
+<p>
 <a href="https://github.com/AmarWaqar-TSKLI/cms-website-builder"><img src="https://img.shields.io/badge/View_Code-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
 </p>
 
@@ -57,8 +57,8 @@
 
 <img src="https://raw.githubusercontent.com/AmarWaqar-TSKLI/AmarWaqar-TSKLI/main/assets/spacer.png" width="400" height="1" alt=""/>
 
-<h3 align="center">🏠 ZEstate</h3>
-<p align="center"><sub>Real-estate platform — <b>live in production</b></sub></p>
+<h3>🏠 ZEstate</h3>
+<p><sub>Real-estate platform — <b>live in production</b></sub></p>
 
 - 🌐 Listings, search and buyer/seller flows
 - 🚢 Serving real users at **zestate.co**
@@ -66,7 +66,7 @@
 
 **`Next.js` `TypeScript` `Tailwind CSS`**
 
-<p align="center">
+<p>
 <a href="https://zestate.co"><img src="https://img.shields.io/badge/Live_Site-zestate.co-D946EF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live"/></a>
 </p>
 
@@ -77,8 +77,8 @@
 
 <img src="https://raw.githubusercontent.com/AmarWaqar-TSKLI/AmarWaqar-TSKLI/main/assets/spacer.png" width="400" height="1" alt=""/>
 
-<h3 align="center">👕 3D Football Kit Customizer</h3>
-<p align="center"><sub>Real-time <b>3D product configurator</b> in the browser</sub></p>
+<h3>👕 3D Football Kit Customizer</h3>
+<p><sub>Real-time <b>3D product configurator</b> in the browser</sub></p>
 
 - 🎮 Recolor, texture and spin a 3D model
 - ✨ GSAP-driven camera transitions
@@ -86,7 +86,7 @@
 
 **`Three.js` `GSAP` `React`**
 
-<p align="center">
+<p>
 <a href="https://github.com/AmarWaqar-TSKLI/GSAP_Football_Customizer"><img src="https://img.shields.io/badge/View_Code-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
 </p>
 
@@ -95,8 +95,8 @@
 
 <img src="https://raw.githubusercontent.com/AmarWaqar-TSKLI/AmarWaqar-TSKLI/main/assets/spacer.png" width="400" height="1" alt=""/>
 
-<h3 align="center">🎨 PaletteAI</h3>
-<p align="center"><sub>Business idea → <b>full color palette</b></sub></p>
+<h3>🎨 PaletteAI</h3>
+<p><sub>Business idea → <b>full color palette</b></sub></p>
 
 - 🤖 Mistral-7B turns an idea into a palette
 - ⚡ Prompt → structured swatches
@@ -104,7 +104,7 @@
 
 **`React` `Mistral-7B` `JavaScript`**
 
-<p align="center">
+<p>
 <a href="https://github.com/AmarWaqar-TSKLI/PaletteAI"><img src="https://img.shields.io/badge/View_Code-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
 <a href="https://palette-ai-seven.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-D946EF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live"/></a>
 </p>
@@ -116,8 +116,8 @@
 
 <img src="https://raw.githubusercontent.com/AmarWaqar-TSKLI/AmarWaqar-TSKLI/main/assets/spacer.png" width="400" height="1" alt=""/>
 
-<h3 align="center">🤖 PR-Insight-Bot</h3>
-<p align="center"><sub>A GitHub Action that <b>reviews your PRs</b></sub></p>
+<h3>🤖 PR-Insight-Bot</h3>
+<p><sub>A GitHub Action that <b>reviews your PRs</b></sub></p>
 
 - 📝 Summarizes pull requests on open
 - 🧪 Flags missing tests automatically
@@ -125,7 +125,7 @@
 
 **`Python` `GitHub Actions` `CI/CD`**
 
-<p align="center">
+<p>
 <a href="https://github.com/AmarWaqar-TSKLI/PR-Insight-Bot"><img src="https://img.shields.io/badge/View_Code-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
 </p>
 
@@ -134,8 +134,8 @@
 
 <img src="https://raw.githubusercontent.com/AmarWaqar-TSKLI/AmarWaqar-TSKLI/main/assets/spacer.png" width="400" height="1" alt=""/>
 
-<h3 align="center">🧹 AI Code Linter</h3>
-<p align="center"><sub>Lint + <b>AI-suggested fixes</b>, in one tool</sub></p>
+<h3>🧹 AI Code Linter</h3>
+<p><sub>Lint + <b>AI-suggested fixes</b>, in one tool</sub></p>
 
 - 🔍 Finds code issues and explains them
 - 💡 Transformers suggest intelligent fixes
@@ -143,7 +143,7 @@
 
 **`FastAPI` `Transformers` `React` `Tailwind`**
 
-<p align="center">
+<p>
 <a href="https://github.com/AmarWaqar-TSKLI/AI_Code_Linter_Repo"><img src="https://img.shields.io/badge/View_Code-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
 </p>
 
