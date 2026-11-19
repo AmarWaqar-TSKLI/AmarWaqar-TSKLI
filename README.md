@@ -134,20 +134,20 @@
 </td>
 <td width="50%" valign="top">
 
-<a href="https://palette-ai-seven.vercel.app"><img src="assets/paletteai.jpg" width="100%" alt="PaletteAI"/></a>
+<a href="https://palette-ai-generator.vercel.app"><img src="assets/paletteai.jpg" width="100%" alt="PaletteAI"/></a>
 
 <h3>🎨 PaletteAI</h3>
 <p><sub>Business idea → <b>full colour palette</b></sub></p>
 
-- 🤖 Mistral-7B turns a one-line idea into a palette with reasoning
-- ⚡ Styled into swatches you can copy
+- 🎨 Eight colours with names and the reasoning behind each
+- ✅ WCAG contrast badges, live preview, CSS and Tailwind export
 - 🌐 Deployed and usable right now
 
-**`React` `Python` `Mistral-7B`**
+**`React` `Vite` `Vercel Functions` `LLM`**
 
 <p>
 <a href="https://github.com/AmarWaqar-TSKLI/PaletteAI"><img src="https://img.shields.io/badge/View_Code-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
-<a href="https://palette-ai-seven.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-D946EF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live"/></a>
+<a href="https://palette-ai-generator.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-D946EF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live"/></a>
 </p>
 
 </td>
