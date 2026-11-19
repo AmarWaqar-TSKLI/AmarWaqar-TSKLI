@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:D946EF&height=220&section=header&text=M%20Amar%20Waqar&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%C2%B7%20Lahore%2C%20Pakistan&descSize=20&descAlignY=57" alt="header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:D946EF&height=220&section=header&text=M%20Amar%20Waqar&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20AI%20Engineer%20%C2%B7%20Gold%20Medalist%20%40%20FAST-NUCES&descSize=20&descAlignY=57" alt="header banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=I+design%2C+build+and+ship+full-stack+products.;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node;AI-powered+apps+%C2%B7+3D+web+experiences;From+8088+Assembly+to+the+modern+web." alt="typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=I+build+full-stack+products+and+the+AI+agents+inside+them.;Multi-agent+systems+%C2%B7+LangGraph+%C2%B7+Python;Next.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL+%C2%B7+AWS;From+8088+Assembly+to+autonomous+agents." alt="typing intro"/>
 
 <br/><br/>
 
@@ -24,10 +24,11 @@
 
 ## 🧭 About
 
-- 🛠️ Full-stack engineer with **35+ repos** of shipped work — SaaS platforms, client products, AI tools, games, and systems code
-- 🎓 Software Engineering @ **FAST-NUCES**, Lahore
-- 🚀 Currently building **[ZEstate](https://zestate.co)** — a real-estate platform, **live in production**
-- 🤝 **Open to full-time roles & freelance** → fastest way to reach me: [amarwaqar15@gmail.com](mailto:amarwaqar15@gmail.com)
+- 🛠️ Full-stack & AI engineer: web products end to end, and the agents that run inside them
+- 🎓 Final-year Software Engineering @ **FAST-NUCES**, Lahore · **Gold Medalist**
+- 💼 Previously Software Engineer Intern @ **Tkxel** and Full Stack Engineer @ **8x** · freelancing since 2024
+- 🚀 Building **[Zestate](https://zestate.co)**, a bilingual property marketplace, **live in production**
+- 🤝 **Open to full-time software & AI engineering roles** → [amarwaqar15@gmail.com](mailto:amarwaqar15@gmail.com)
 
 <br/>
 
@@ -37,34 +38,36 @@
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/AmarWaqar-TSKLI/AmarWaqar-TSKLI/main/assets/spacer.png" width="400" height="1" alt=""/>
+<a href="https://github.com/AmarWaqar-TSKLI/argus"><img src="assets/argus.jpg" width="100%" alt="Argus audit report"/></a>
 
-<h3>🏗️ CMS Website Builder</h3>
-<p><sub>A CMS that stores <b>descriptions, not HTML</b></sub></p>
+<h3>👁️ Argus</h3>
+<p><sub>An autonomous <b>AI QA engineer</b>, for $0.00 in model costs</sub></p>
 
-- 📦 Publish appends an **immutable release**
-- ⏪ Rollback is a **single-column update**
-- 🧱 Ships as a site, static zip or container
+- 🕸️ LangGraph multi-agent graph: explore → audit → verify → report
+- 👀 Vision model spent only on what the DOM can't see
+- ♻️ Checkpointed to SQLite: a killed run resumes mid-page
+- 🧪 Skeptic agent refutes hallucinated bugs before they ship
 
-**`Next.js` `TypeScript` `Prisma` `PostgreSQL`**
+**`Python` `LangGraph` `Playwright` `OpenCV` `Gemini`**
 
 <p>
-<a href="https://github.com/AmarWaqar-TSKLI/cms-website-builder"><img src="https://img.shields.io/badge/View_Code-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
+<a href="https://github.com/AmarWaqar-TSKLI/argus"><img src="https://img.shields.io/badge/View_Code-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/AmarWaqar-TSKLI/AmarWaqar-TSKLI/main/assets/spacer.png" width="400" height="1" alt=""/>
+<a href="https://zestate.co"><img src="assets/zestate.jpg" width="100%" alt="Zestate home page"/></a>
 
-<h3>🏠 ZEstate</h3>
-<p><sub>Real-estate platform — <b>live in production</b></sub></p>
+<h3>🏠 Zestate</h3>
+<p><sub>Bilingual property marketplace, <b>live in production</b></sub></p>
 
-- 🌐 Listings, search and buyer/seller flows
-- 🚢 Serving real users at **zestate.co**
+- 🌐 Listings, projects, agents and messaging, in English and Urdu
+- 📱 One Turborepo: Next.js web + Expo native app
+- 🔁 550+ commits since June 2026, still shipping
 - 🔒 Closed-source client build
 
-**`Next.js` `TypeScript` `Tailwind CSS`**
+**`Next.js` `React Native` `TypeScript` `PostgreSQL`**
 
 <p>
 <a href="https://zestate.co"><img src="https://img.shields.io/badge/Live_Site-zestate.co-D946EF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live"/></a>
@@ -75,16 +78,54 @@
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/AmarWaqar-TSKLI/AmarWaqar-TSKLI/main/assets/spacer.png" width="400" height="1" alt=""/>
+<a href="https://github.com/AmarWaqar-TSKLI/cms-website-builder"><img src="assets/cms.jpg" width="100%" alt="CMS Website Builder dashboard"/></a>
+
+<h3>🏗️ CMS Website Builder</h3>
+<p><sub>A site builder where a page is a <b>description, not HTML</b></sub></p>
+
+- 📦 Publish appends an **immutable release** in under 200 ms
+- ⏪ Rollback is a **single-column update**, never a rebuild
+- 🧱 Ships as a hosted site, static zip or container
+
+**`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Docker`**
+
+<p>
+<a href="https://github.com/AmarWaqar-TSKLI/cms-website-builder"><img src="https://img.shields.io/badge/View_Code-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/AmarWaqar-TSKLI/mirage"><img src="assets/mirage.jpg" width="100%" alt="Mirage dashboard intercepting an attacker"/></a>
+
+<h3>🛡️ Mirage</h3>
+<p><sub>Cyber deception that <b>traps and contains</b> intruders</sub></p>
+
+- 🪤 Fake admin panel, SSH server and S3 bucket, plus planted credentials
+- 🎯 Every move mapped to MITRE ATT&CK, scored per attacker
+- ⚡ First alert in 16 ms, contained in 2.4 s, 0 false alarms
+
+**`Python` `FastAPI` `Docker` `WebSockets`** · <sub>team project</sub>
+
+<p>
+<a href="https://github.com/AmarWaqar-TSKLI/mirage"><img src="https://img.shields.io/badge/View_Code-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/AmarWaqar-TSKLI/GSAP_Football_Customizer"><img src="assets/shirt.jpg" width="100%" alt="3D shirt customizer"/></a>
 
 <h3>👕 3D Football Kit Customizer</h3>
 <p><sub>Real-time <b>3D product configurator</b> in the browser</sub></p>
 
-- 🎮 Recolor, texture and spin a 3D model
+- 🎨 Recolor, texture and spin a 3D shirt
+- 🖼️ Apply logos, or let an image model design the print
 - ✨ GSAP-driven camera transitions
-- 🖼️ Upload artwork onto the 3D mesh
 
-**`Three.js` `GSAP` `React`**
+**`React` `Three.js` `GSAP` `Express`**
 
 <p>
 <a href="https://github.com/AmarWaqar-TSKLI/GSAP_Football_Customizer"><img src="https://img.shields.io/badge/View_Code-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
@@ -93,58 +134,20 @@
 </td>
 <td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/AmarWaqar-TSKLI/AmarWaqar-TSKLI/main/assets/spacer.png" width="400" height="1" alt=""/>
+<a href="https://palette-ai-seven.vercel.app"><img src="assets/paletteai.jpg" width="100%" alt="PaletteAI"/></a>
 
 <h3>🎨 PaletteAI</h3>
-<p><sub>Business idea → <b>full color palette</b></sub></p>
+<p><sub>Business idea → <b>full colour palette</b></sub></p>
 
-- 🤖 Mistral-7B turns an idea into a palette
-- ⚡ Prompt → structured swatches
+- 🤖 Mistral-7B turns a one-line idea into a palette with reasoning
+- ⚡ Styled into swatches you can copy
 - 🌐 Deployed and usable right now
 
-**`React` `Mistral-7B` `JavaScript`**
+**`React` `Python` `Mistral-7B`**
 
 <p>
 <a href="https://github.com/AmarWaqar-TSKLI/PaletteAI"><img src="https://img.shields.io/badge/View_Code-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
 <a href="https://palette-ai-seven.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-D946EF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live"/></a>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://raw.githubusercontent.com/AmarWaqar-TSKLI/AmarWaqar-TSKLI/main/assets/spacer.png" width="400" height="1" alt=""/>
-
-<h3>🤖 PR-Insight-Bot</h3>
-<p><sub>A GitHub Action that <b>reviews your PRs</b></sub></p>
-
-- 📝 Summarizes pull requests on open
-- 🧪 Flags missing tests automatically
-- ✍️ Improves commit-message quality
-
-**`Python` `GitHub Actions` `CI/CD`**
-
-<p>
-<a href="https://github.com/AmarWaqar-TSKLI/PR-Insight-Bot"><img src="https://img.shields.io/badge/View_Code-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://raw.githubusercontent.com/AmarWaqar-TSKLI/AmarWaqar-TSKLI/main/assets/spacer.png" width="400" height="1" alt=""/>
-
-<h3>🧹 AI Code Linter</h3>
-<p><sub>Lint + <b>AI-suggested fixes</b>, in one tool</sub></p>
-
-- 🔍 Finds code issues and explains them
-- 💡 Transformers suggest intelligent fixes
-- 🖥️ FastAPI backend, React + Tailwind UI
-
-**`FastAPI` `Transformers` `React` `Tailwind`**
-
-<p>
-<a href="https://github.com/AmarWaqar-TSKLI/AI_Code_Linter_Repo"><img src="https://img.shields.io/badge/View_Code-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
 </p>
 
 </td>
@@ -154,41 +157,43 @@
 <br/>
 
 <details>
-<summary><b>⚙️ &nbsp;The systems layer — proof I'm not just a framework user</b> <sub>(click to expand)</sub></summary>
+<summary><b>🤖 &nbsp;More AI tools</b> <sub>(click to expand)</sub></summary>
 <br/>
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**PingPong**](https://github.com/AmarWaqar-TSKLI/PingPong) | Two-player Pong written in **8088 Assembly** — paddles, ball physics, scoring, clean termination | `Assembly` |
-| [**JournEZ**](https://github.com/AmarWaqar-TSKLI/JournEZ) | Bus-ticket booking system with schedules, routes, and seat management — native Windows UI | `C++` `WinForms` |
-| [**VoltMaster**](https://github.com/AmarWaqar-TSKLI/VoltMaster-Power-Management-Software) | Power-management suite: appliance priorities, schedules, consumption tracking, bill estimation | `.NET` `WinForms` `SQL` |
-| [**PlanForge**](https://github.com/AmarWaqar-TSKLI/Project-Planner-Resource-Allocator) | Project scheduler — completion-time analysis, overlap detection, per-resource effort totals | `Java` |
+| [**PR-Insight-Bot**](https://github.com/AmarWaqar-TSKLI/PR-Insight-Bot) | GitHub Action that reviews every pull request, flags missing tests and tightens commit messages | `Python` `GitHub Actions` `OpenRouter` |
+| [**AI Code Linter**](https://github.com/AmarWaqar-TSKLI/AI_Code_Linter_Repo) | Paste code, get the issues explained and a corrected version back | `FastAPI` `Transformers` `React` |
+| [**DataForge Lite**](https://github.com/AmarWaqar-TSKLI/DataForge-Lite) | Upload a spreadsheet, clean it, chart it, ask it questions | `FastAPI` `Pandas` `Plotly` `React` |
+| **SmartScreen AI** <sub>(private, team)</sub> | Ranks resumes against a job description with TF-IDF and classical ML | `Python` `scikit-learn` `NLP` |
 
 </details>
 
 <details>
-<summary><b>🔒 &nbsp;Client work & private builds</b> <sub>(click to expand)</sub></summary>
-<br/>
-
-| Project | What it is | Stack |
-|---|---|---|
-| **SmartScreen-AI** | AI-powered ATS — automated resume screening & candidate ranking with NLP + ML | `Python` `ML` `NLP` |
-| **LeadQual** | Lead-generation SaaS platform | `TypeScript` `Next.js` |
-| **KickOffPro** | Football-competition manager — automated fixtures, live scores, real-time standings | `MERN` |
-| **NYM** | Next-gen chat: groups, voice/video calls, AI chat, polls, anonymous rooms | `JavaScript` `WebRTC` |
-| **SocializX** | Chatroom platform with private/public rooms and join-request invites | `JavaScript` |
-
-</details>
-
-<details>
-<summary><b>🧪 &nbsp;More public experiments</b> <sub>(click to expand)</sub></summary>
+<summary><b>🌐 &nbsp;More web apps</b> <sub>(click to expand)</sub></summary>
 <br/>
 
 | Project | What it is | Links |
 |---|---|---|
-| **GameStore 2.0** | Full-stack game store — “The Second Coming” | [Code](https://github.com/AmarWaqar-TSKLI/GameStore2.0) · [Live](https://game-store2-0.vercel.app) |
-| **DataForge Lite** | Raw CSV/Excel → cleaned, structured insight, no code required | [Code](https://github.com/AmarWaqar-TSKLI/DataForge-Lite) |
-| **iTask** | Daily-routine task manager in React | [Code](https://github.com/AmarWaqar-TSKLI/iTask_TaskManager_A-React-App) |
+| **NYM** | Chat with groups, voice/video calls, an AI mode, polls and anonymous rooms | [Code](https://github.com/AmarWaqar-TSKLI/NYM-Next-Gen-Chat-App) |
+| **KickOff Pro** | Football tournament manager: automatic fixtures, live scores, standings | [Code](https://github.com/AmarWaqar-TSKLI/KickOffPro) |
+| **GameStore 2.0** | Games catalogue with trailers, reviews and wishlists | [Code](https://github.com/AmarWaqar-TSKLI/GameStore2.0) · [Live](https://game-store2-0.vercel.app) |
+| **Moment NBA** | Client prototype: team pages run from Google Sheets | [Live](https://moment-nba.vercel.app) |
+| **LeadQual** | Lead generation and qualification SaaS | [Code](https://github.com/AmarWaqar-TSKLI/LeadQual) |
+
+</details>
+
+<details>
+<summary><b>⚙️ &nbsp;Systems & DevOps: proof I'm not just a framework user</b> <sub>(click to expand)</sub></summary>
+<br/>
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**TaskFlow**](https://github.com/AmarWaqar-TSKLI/taskflow-devops) | Containerised services on AWS behind a 12-stage DevSecOps pipeline <sub>(team project, in progress)</sub> | `AWS` `Docker` `GitHub Actions` |
+| [**PingPong**](https://github.com/AmarWaqar-TSKLI/PingPong) | Two-player Pong written in **8088 Assembly**: paddles, ball physics, scoring | `Assembly` |
+| [**JournEZ**](https://github.com/AmarWaqar-TSKLI/JournEZ) | Bus-ticket booking with schedules, routes and seats, on plain text files | `C++` `WinForms` |
+| [**VoltMaster**](https://github.com/AmarWaqar-TSKLI/VoltMaster-Power-Management-Software) | Schedules appliances around peak hours and estimates the bill | `.NET` `WinForms` `SQL` |
+| [**PlanForge**](https://github.com/AmarWaqar-TSKLI/Project-Planner-Resource-Allocator) | Project scheduler: completion time, overlap detection, effort per resource | `Java` |
 
 </details>
 
@@ -198,21 +203,25 @@
 
 <div align="center">
 
-**Frontend**
+**Frontend & Mobile**
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/> <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/> <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/> <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/> <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP"/>
 
 **Backend & Data**
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node"/> <img src="https://img.shields.io/badge/Express-404d59?style=for-the-badge&logo=express&logoColor=white" alt="Express"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node"/> <img src="https://img.shields.io/badge/Express-404d59?style=for-the-badge&logo=express&logoColor=white" alt="Express"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
-**AI / ML**
+**AI / Agents**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 
-**Systems & Tools**
+**Cloud & DevOps**
 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge" alt="Assembly"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+
+**Systems**
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge" alt="Assembly"/>
 
 </div>
 
@@ -246,30 +255,9 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=AmarWaqar-TSKLI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&include_all_commits=true">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AmarWaqar-TSKLI&show_icons=true&hide_border=true&title_color=6366F1&icon_color=8B5CF6&include_all_commits=true" alt="GitHub stats"/>
-</picture>
-
-</td>
-<td width="50%">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AmarWaqar-TSKLI&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=D946EF&currStreakLabel=8B5CF6">
   <img src="https://streak-stats.demolab.com?user=AmarWaqar-TSKLI&hide_border=true&ring=6366F1&fire=D946EF&currStreakLabel=6366F1" alt="streak stats"/>
-</picture>
-
-</td>
-</tr>
-</table>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AmarWaqar-TSKLI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8&hide=c">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AmarWaqar-TSKLI&layout=compact&hide_border=true&title_color=6366F1&langs_count=8&hide=c" alt="top languages"/>
 </picture>
 
 <br/><br/>
@@ -287,7 +275,7 @@
 
 <div align="center">
 
-**Open to full-time roles, internships & freelance work.**
+**Open to full-time software & AI engineering roles, and freelance work.**
 
 <a href="mailto:amarwaqar15@gmail.com"><img src="https://img.shields.io/badge/📬_Email_me-amarwaqar15@gmail.com-6366F1?style=for-the-badge" alt="Email me"/></a>
 &nbsp;
