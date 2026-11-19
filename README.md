@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:D946EF&height=220&section=header&text=M%20Amar%20Waqar&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20AI%20Engineer%20%C2%B7%20Gold%20Medalist%20%40%20FAST-NUCES&descSize=20&descAlignY=57" alt="header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:D946EF&height=220&section=header&text=M%20Amar%20Waqar&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%2C%20Mobile%20%26%20AI%20Engineer%20%C2%B7%20Gold%20Medalist%20%40%20FAST%20NUCES&descSize=20&descAlignY=57" alt="header banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=I+build+full-stack+products+and+the+AI+agents+inside+them.;Multi-agent+systems+%C2%B7+LangGraph+%C2%B7+Python;Next.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL+%C2%B7+AWS;From+8088+Assembly+to+autonomous+agents." alt="typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=I+build+full-stack+products+and+the+AI+agents+inside+them.;Multi-agent+systems+%C2%B7+LangGraph+%C2%B7+Python;React+Native+apps+for+iOS+and+Android.;Next.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL+%C2%B7+AWS;From+8088+Assembly+to+autonomous+agents." alt="typing intro"/>
 
 <br/><br/>
 
@@ -24,10 +24,10 @@
 
 ## 🧭 About
 
-- 🛠️ Full-stack & AI engineer: web products end to end, and the agents that run inside them
-- 🎓 Final-year Software Engineering @ **FAST-NUCES**, Lahore · **Gold Medalist**
+- 🛠️ Full stack, mobile & AI engineer: web and iOS/Android apps end to end, and the AI agents inside them
+- 🎓 Final year Software Engineering @ **FAST-NUCES**, Lahore · **Gold Medalist**
 - 💼 Previously Software Engineer Intern @ **Tkxel** and Full Stack Engineer @ **8x** · freelancing since 2024
-- 🚀 Building **[Zestate](https://zestate.co)**, a bilingual property marketplace, **live in production**
+- 🚀 Building **[Zestate](https://zestate.co)**, a bilingual property marketplace on web, iOS and Android, **live in production**
 - 🤝 **Open to full-time software & AI engineering roles** → [amarwaqar15@gmail.com](mailto:amarwaqar15@gmail.com)
 
 <br/>
@@ -60,14 +60,14 @@
 <a href="https://zestate.co"><img src="assets/zestate.jpg" width="100%" alt="Zestate home page"/></a>
 
 <h3>🏠 Zestate</h3>
-<p><sub>Bilingual property marketplace, <b>live in production</b></sub></p>
+<p><sub>Property marketplace on <b>web, iOS and Android</b>, live in production</sub></p>
 
 - 🌐 Listings, projects, agents and messaging, in English and Urdu
-- 📱 One Turborepo: Next.js web + Expo native app
+- 📱 React Native (Expo) app for iOS and Android, sharing code with the Next.js site in one Turborepo
 - 🔁 550+ commits since June 2026, still shipping
 - 🔒 Closed-source client build
 
-**`Next.js` `React Native` `TypeScript` `PostgreSQL`**
+**`React Native` `Expo` `Next.js` `TypeScript` `PostgreSQL`**
 
 <p>
 <a href="https://zestate.co"><img src="https://img.shields.io/badge/Live_Site-zestate.co-D946EF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live"/></a>
@@ -205,7 +205,7 @@
 
 **Frontend & Mobile**
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/> <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/> <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/> <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/> <img src="https://img.shields.io/badge/iOS_%26_Android-555555?style=for-the-badge&logo=android&logoColor=white" alt="iOS and Android"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/> <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/> <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP"/>
 
 **Backend & Data**
 
